@@ -3,8 +3,6 @@
 
 >如何依赖此项目
 
-JAVA
-
     allprojects {
         repositories {
         ...
