@@ -10,5 +10,5 @@
         }
     }
     dependencies{
-        implementation 'com.github.JDTTJD:TangRefreshLayout:Tag'
+        implementation 'com.github.JDTTJD:TangRefreshLayout:V1.0.0'
     }
